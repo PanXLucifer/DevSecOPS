@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-23",
+  "summary": {
+    "title": "Toko online",
+    "owner": "icak",
+    "description": "Aplikasi toko online dengan arsitektur React Frontend, Node.js REST API, MySQL DB, Redis Cache, serta integrasi Payment Gateway (Midtrans/Xendit) dan Email Service.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
